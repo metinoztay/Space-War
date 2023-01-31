@@ -220,15 +220,15 @@ EdgeCollider2D:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 7a64e459fcd286b428e1adff8c86ef50, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -13.703566, y: 7.0281796}
-  - {x: 13.673628, y: 6.9921627}
+  - {x: -12.4, y: 7}
+  - {x: 12.4, y: 7}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
@@ -242,15 +242,15 @@ EdgeCollider2D:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 7a64e459fcd286b428e1adff8c86ef50, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -13.685825, y: -6.9708505}
-  - {x: -13.651666, y: 7.0968294}
+  - {x: -12.4, y: -7}
+  - {x: -12.4, y: 7}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
@@ -264,15 +264,15 @@ EdgeCollider2D:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 7a64e459fcd286b428e1adff8c86ef50, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -13.685825, y: -7.012843}
-  - {x: 13.685826, y: -7.0548368}
+  - {x: -12.4, y: -7}
+  - {x: 12.4, y: -7}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
@@ -286,15 +286,15 @@ EdgeCollider2D:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 7a64e459fcd286b428e1adff8c86ef50, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: 13.659261, y: -7.033155}
-  - {x: 13.698786, y: 7.0021725}
+  - {x: 12.4, y: -7}
+  - {x: 12.4, y: 7}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
@@ -428,7 +428,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 670944474}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 2fd2a7431a7319341bf5509364855b20, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0

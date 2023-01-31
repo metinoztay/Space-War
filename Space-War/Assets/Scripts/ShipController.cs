@@ -11,6 +11,10 @@ public class ShipController : MonoBehaviour
         myrigidbody2D.AddForce(new Vector2(5,5),ForceMode2D.Impulse);
     }
 
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Debug.Log("Kemerlerinizi Baglayin!");
+    }
     // Update is called once per frame
     void Update()
     {
